@@ -108,14 +108,14 @@
                         $user = auth()->user();
                     @endphp
                     <div class="row align-items-center">
-                        <div class="col">
+                        {{-- <div class="col">
                             <div class="notification" style="margin-right:1%;">
                                 <a href="#">
                                     <i class="fa fa-bell" style="font-size:36px; color:#198753;"></i>
                                     <span class="badge">0</span>
                                 </a>
                             </div>
-                        </div>
+                        </div> --}}
                         <div class="col">
                             <div class="profile dropstart">
                                 <div id="dropdownMenuProfile" data-bs-toggle="dropdown" aria-expanded="false" alt="Image Profile">
