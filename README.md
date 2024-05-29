@@ -45,7 +45,7 @@ To get started with the Trading Journey System, follow these steps:
 
 1. **Clone the repository**
     ```bash
-    git clone see the repo link
+    git clone please see the repo link
 
     ```
 
