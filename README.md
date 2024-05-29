@@ -25,8 +25,7 @@ Welcome to the Trading Journey System, a Laravel-based web application designed 
 
 ## Screenshots
 
-![[Screenshot 1](https://static.independent.co.uk/2023/01/17/15/iStock-949472768.jpg)](#)
-![[Screenshot 2](https://static.independent.co.uk/2023/01/17/15/iStock-949472768.jpg)](#)
+![Dashboard Screenshot](https://github.com/tepmakaraofficial/mtj-laravel/blob/main/public/images/MTJ%20background.png)  
 
 ## Installation
 
@@ -46,8 +45,8 @@ To get started with the Trading Journey System, follow these steps:
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/trading-journey-system.git
-    cd trading-journey-system
+    git clone see the repo link
+
     ```
 
 2. **Install backend dependencies**
