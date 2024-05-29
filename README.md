@@ -65,6 +65,7 @@ To get started with the Trading Journey System, follow these steps:
     cp .env.example .env
     ```
 The additional mandatory variables
+```bash
 FINNHUB_API_KEY=123
 #On contact page when user submit will send to Telegram
 TG_API_KEY=123
@@ -77,7 +78,7 @@ VITE_FIREBASE_STORAGE_BUCKET=123
 VITE_FIREBASE_SENDER_ID=123
 VITE_FIREBASE_APP_ID=123
 VITE_FIREBASE_MEASUREMENT_ID=123
-
+```
 5. **Generate application key**
     ```bash
     php artisan key:generate
