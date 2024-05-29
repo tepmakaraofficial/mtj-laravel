@@ -26,6 +26,7 @@ Welcome to the Trading Journey System, a Laravel-based web application designed 
 ## Screenshots
 
 ![Dashboard Screenshot](https://github.com/tepmakaraofficial/mtj-laravel/blob/main/public/images/MTJ%20background.png)  
+Watch the Demo on YouTube 
 [![Watch the Demo on YouTube](https://img.youtube.com/vi/f8gsj2qBfvQ/0.jpg)](https://www.youtube.com/watch?v=f8gsj2qBfvQ)
 
 ## Installation
